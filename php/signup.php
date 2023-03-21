@@ -40,7 +40,7 @@ $stmt = mysqli_stmt_init($conn);   // Initializing for prepare() function
 
  if(mysqli_stmt_execute($stmt)){ 
 
-    header("Location: loging.php"); 
+    header("Location: /login.html"); 
     exit;
 
  } else{ 

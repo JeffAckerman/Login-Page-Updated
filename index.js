@@ -1,3 +1,6 @@
+
+// MongoDB Database Connection for Profile Data Storage
+
 // API connections
 var express = require("express") 
 var mongoose = require("mongoose") 

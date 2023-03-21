@@ -1,4 +1,7 @@
 <?php 
+
+// For My SQL DataBase Profile
+
 $full_name = $_POST["full_name"]; 
 $workplace = $_POST["workplace"]; 
 $age = $_POST["age"]; 

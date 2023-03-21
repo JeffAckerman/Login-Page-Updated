@@ -14,4 +14,6 @@ if(mysqli_connect_errno()){
 } 
 
 return $conn;
+
+include "redis.php";
 ?>
